@@ -1,0 +1,15 @@
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\bin\Debug\net6.0\ListaEnlazadaSimple.exe
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\bin\Debug\net6.0\ListaEnlazadaSimple.deps.json
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\bin\Debug\net6.0\ListaEnlazadaSimple.runtimeconfig.json
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\bin\Debug\net6.0\ListaEnlazadaSimple.dll
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\bin\Debug\net6.0\ListaEnlazadaSimple.pdb
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.csproj.AssemblyReference.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.AssemblyInfoInputs.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.AssemblyInfo.cs
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.csproj.CoreCompileInputs.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.dll
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\refint\ListaEnlazadaSimple.dll
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.pdb
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ListaEnlazadaSimple.genruntimeconfig.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaSimple\obj\Debug\net6.0\ref\ListaEnlazadaSimple.dll

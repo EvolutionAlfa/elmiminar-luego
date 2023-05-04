@@ -1,0 +1,30 @@
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.exe
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.deps.json
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.runtimeconfig.json
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.dll
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.pdb
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.csproj.AssemblyReference.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.GeneratedMSBuildEditorConfig.editorconfig
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.AssemblyInfoInputs.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.AssemblyInfo.cs
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.csproj.CoreCompileInputs.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.dll
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\refint\ListaEnlazadaDoble.dll
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.pdb
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.genruntimeconfig.cache
+D:\jb\upn\2022-2\ESDAT UG\Semana2\13558\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ref\ListaEnlazadaDoble.dll
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.exe
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.deps.json
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.runtimeconfig.json
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.dll
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\bin\Debug\net6.0\ListaEnlazadaDoble.pdb
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.csproj.AssemblyReference.cache
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.AssemblyInfoInputs.cache
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.AssemblyInfo.cs
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.csproj.CoreCompileInputs.cache
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.dll
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\refint\ListaEnlazadaDoble.dll
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.pdb
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ListaEnlazadaDoble.genruntimeconfig.cache
+C:\Users\Evolu\Documents\UPN\ESTRUCTURA DE DATOS\SEMANA3\ESDATS2\ListaEnlazadaDoble\obj\Debug\net6.0\ref\ListaEnlazadaDoble.dll

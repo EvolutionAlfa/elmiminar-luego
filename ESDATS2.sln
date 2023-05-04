@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaEnlazadaSimple", "ListaEnlazadaSimple\ListaEnlazadaSimple.csproj", "{B8833964-64BD-4350-BBC8-8F9FB1528AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaEnlazadaDoble", "ListaEnlazadaDoble\ListaEnlazadaDoble.csproj", "{6871E712-B1BB-400C-B3FD-41246B592291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8833964-64BD-4350-BBC8-8F9FB1528AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8833964-64BD-4350-BBC8-8F9FB1528AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8833964-64BD-4350-BBC8-8F9FB1528AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8833964-64BD-4350-BBC8-8F9FB1528AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6871E712-B1BB-400C-B3FD-41246B592291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6871E712-B1BB-400C-B3FD-41246B592291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6871E712-B1BB-400C-B3FD-41246B592291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6871E712-B1BB-400C-B3FD-41246B592291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65786D8-4ED0-48C2-B18C-3520AE036D39}
+	EndGlobalSection
+EndGlobal
